@@ -1,6 +1,17 @@
 title: Lattin's Country Store
 css: default.css
 
+0. [Home](index.html)
+1. [Cider](cider.html)
+3. [Farm](farm.html)
+4. [Bakery](bakery.html)
+5. [Gardens](gardens.html)
+6. [Events](events.html)
+7. [Tours](tours.html)
+8. [Parties](parties.html)
+9. [Calendar](calendar.html)
+10. [Jobs](jobs.html)
+
 # Lattin's Country Store
 
 1. ![Assorted produce](images/produce-assortment.jpg)

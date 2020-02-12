@@ -1,6 +1,17 @@
 title: Lattin's Tours
 css: default.css
 
+0. [Home](index.html)
+1. [Cider](cider.html)
+2. [Store](store.html)
+3. [Farm](farm.html)
+4. [Bakery](bakery.html)
+5. [Gardens](gardens.html)
+6. [Events](events.html)
+8. [Parties](parties.html)
+9. [Calendar](calendar.html)
+10. [Jobs](jobs.html)
+
 # Lattin's Tours 🚌
 
 Consider Lattin's for educational field trips for schools.

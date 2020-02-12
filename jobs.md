@@ -1,6 +1,17 @@
 title: Lattin's Job Opportunities
 css: default.css
 
+0. [Home](index.html)
+1. [Cider](cider.html)
+2. [Store](store.html)
+3. [Farm](farm.html)
+4. [Bakery](bakery.html)
+5. [Gardens](gardens.html)
+6. [Events](events.html)
+7. [Tours](tours.html)
+8. [Parties](parties.html)
+9. [Calendar](calendar.html)
+
 # Lattin's Job Opportunities 👩‍🌾
 
 As you can imagine, there is a lot of work involved in running a farm!

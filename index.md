@@ -1,10 +1,6 @@
 title: Lattin's Country Cider Mill and Farm
 css: default.css
 
-# Lattin's Country Cider Mill and Farm
-
----
-
 1. [Cider](cider.html)
 2. [Store](store.html)
 3. [Farm](farm.html)
@@ -16,7 +12,7 @@ css: default.css
 9. [Calendar](calendar.html)
 10. [Jobs](jobs.html)
 
----
+# Lattin's Country Cider Mill and Farm
 
 ## Welcome to Lattin’s Country Cider Mill and Farm
 
