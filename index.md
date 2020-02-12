@@ -15,8 +15,6 @@ css: default.css
 
 # Lattin's Country Cider Mill and Farm
 
-## Welcome to Lattin’s Country Cider Mill and Farm
-
 1. ![Our wheel house](images/our-wheel-house.jpg)
 
 ## About Us
