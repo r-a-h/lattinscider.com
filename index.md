@@ -38,7 +38,7 @@ And stop by on Thursday & Friday before noon or Saturday & Sunday for great tast
 
 Join us for special [EVENTS](events.html) throughout the year.
 Kids love our Easter Egg Hunt!
-Our fall APPLE FESTIVAL features tractor-drawn wagon rides to our Pumpkin Patch, the Maze, Bluegrass Music and wonderful food & drinks.
+Our fall APPLE FESTIVAL features tractor-drawn wagon rides to our Pumpkin Patch, the Maze, and wonderful food & drinks.
 We transform our farm into a WINTER WONDERLAND in December with thousands of lights.
 
 We look forward to seeing you soon! \

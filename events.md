@@ -65,7 +65,6 @@ Celebrate Washington’s Apple Harvest with us at the farm.
 Come pick your own pumpkins!
 Enjoy a day in the country amid the sweet aroma of apples.
 Sample our fresh picked crunchy apples.
-Enjoy our Bluegrass music.
 Bring the children -- visit our farm animals and visit our fun Goat Walk.
 Every weekend enjoy our animal train, face painting, games, petting farm, pony rides, and wagon rides to & from our pumpkin patch from 10 am to 4 pm.
 We have our National Award Winning Cider, lots of good things to eat, bbq, apple crisp, caramel apples, apple pie, cold & hot spiced cider, berry cider, cider donuts, apple cake, and our famous Apple Fritters.
