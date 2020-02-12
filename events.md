@@ -30,7 +30,7 @@ Please call the farm, [(360) 491-7328](tel:+1-360-491-7328), a week ahead and we
 
 ### We won't be at the Market during Thurston County Fair
 
-- August 1st 
+- August 1st
 
 ### We won't be at the Market during our Apple Festival
 
@@ -65,7 +65,7 @@ Celebrate Washington’s Apple Harvest with us at the farm.
 Come pick your own pumpkins!
 Enjoy a day in the country amid the sweet aroma of apples.
 Sample our fresh picked crunchy apples.
-Bring the children -- visit our farm animals. 
+Bring the children -- visit our farm animals.
 Every weekend enjoy our animal train, face painting, games, petting farm, pony rides, and wagon rides to & from our pumpkin patch from 10 am to 4 pm.
 We have our National Award Winning Cider, lots of good things to eat, bbq, apple crisp, caramel apples, apple pie, cold & hot spiced cider, berry cider, cider donuts, apple cake, and our famous Apple Fritters.
 

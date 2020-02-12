@@ -4,7 +4,7 @@ css: default.css
 # Lattin's Job Opportunities 👩‍🌾
 
 As you can imagine, there is a lot of work involved in running a farm!
-We care for animals, work in gardens, and produce cider, 
+We care for animals, work in gardens, and produce cider.
 We also have a bakery, a store, a playground with a maze, and a tour service.
 Our farm is open nearly every day attracting locals who stop in for fresh produce, busloads of school children, and visitors from all over the world.
 We need a wide variety of help!
@@ -69,7 +69,7 @@ Meet the public.
 Represent our farm.
 Sell produce, cider, and baked goods.
 
-## Delivery Driver 🚚 
+## Delivery Driver 🚚
 
 Deliver our cider to the Seattle & Portland areas and pick up or deliver produce to other local farms.
 
