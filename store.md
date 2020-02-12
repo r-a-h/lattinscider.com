@@ -22,7 +22,7 @@ If you’re planning ahead for the holidays, pick yours up early or call and pla
 
 ![Peaches](images/peaches.jpg)
 
-## Orders
+## Orders, Requests, and Pre-Orders
 
 *Please call* the farm, [(360) 491-7328](tel:+1-360-491-7328), *ahead of time* if you are looking for a specific amount of produce by the box.
 
