@@ -52,7 +52,7 @@ Lid, label, and freeze!
 
 ### Animal Care
 
-We have goats, chickens, ducks, turkeys, rabbits, and more.
+We have chickens, ducks, turkeys, rabbits, and more.
 Each one needs food, water, house-keeping, and some loving attention every day.
 
 ### Gardens

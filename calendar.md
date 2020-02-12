@@ -26,7 +26,7 @@ The first produce is here, too.
 ## April
 
 Bring your family to enjoy all the farm babies!
-Bunnies, chicks, lambs, goats, calves, ducklings, and more!
+Bunnies, chicks, ducklings, and more!
 The first tender shoots of asparagus, too.
 
 Join us on the day before Easter for our Annual Easter Egg Hunt!

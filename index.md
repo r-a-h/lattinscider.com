@@ -63,7 +63,7 @@ We make fresh cider every Monday.
 ### Get Ready for Spring
 
 New babies will arrive!
-Cute and cuddly goats, pig, and sheep...
+Cute and cuddly... 
 The first produce arrives, too.
 
 ### Firewood Sale!
