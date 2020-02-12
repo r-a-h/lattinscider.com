@@ -1,0 +1,57 @@
+:root {
+	background-image: url("images/barn-bg.png");
+}
+body {
+	margin: 40px auto;
+	max-width: 83%;
+	line-height: 1.6;
+	font-size: 18px;
+	color: #222;
+	background-color: rgba(255, 255, 255, 0.85);
+	padding: 0 2rem;
+	box-shadow: 0 0 0 1rem #944;
+	border: 0.5rem solid #c11;
+	border-radius: 12px;
+}
+h1,h2,h3 {
+	line-height: 1.2;
+}
+h1 {
+	text-align: center;
+	text-shadow: 1px 1px 2px rgba(255, 128, 128, 0.5),
+	               0 0 0.1em rgba(255, 128, 128, 0.2),
+		       0 0 0.1em rgba(255, 0,   0,   0.2);
+}
+h2 {
+	background-image: url("images/rosewood.png");
+	padding: 0.4rem;
+	border: 0.1rem solid rgba(0, 0, 0, 0.1);
+	border-radius: 12px;
+	text-shadow: 1px 1px 2px rgba(255, 128, 128, 0.5),
+	               0 0 0.1em rgba(255, 128, 128, 0.2),
+		       0 0 0.1em rgba(255, 0, 0, 0.2);
+}
+h3 {
+	text-decoration: underline;
+	text-decoration-color: rgba(255, 128, 128, 0.5);
+}
+ol {
+	text-align: center;
+	list-style: none;
+	padding-left: 0;
+} 
+ol > li {
+	display: inline-block;
+	padding: 0.5em;
+	font-size: 120%;
+}
+img {
+	padding: 0.1rem;
+	border: 0.1rem solid rgba(255, 128, 128, 0.1);
+	border-radius: 6px;
+	max-width: 100%;
+} 
+p > img {
+	max-height: 200px;
+}
+
