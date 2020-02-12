@@ -11,6 +11,7 @@ css: default.css
 7. [Tours](tours.html)
 8. [Parties](parties.html)
 9. [Calendar](calendar.html)
+10. [Jobs](jobs.html)
 
 # Lattin's Job Opportunities 👩‍🌾
 

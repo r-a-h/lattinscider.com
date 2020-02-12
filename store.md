@@ -3,6 +3,7 @@ css: default.css
 
 0. [Home](index.html)
 1. [Cider](cider.html)
+2. [Store](store.html)
 3. [Farm](farm.html)
 4. [Bakery](bakery.html)
 5. [Gardens](gardens.html)

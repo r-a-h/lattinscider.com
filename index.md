@@ -1,6 +1,7 @@
 title: Lattin's Country Cider Mill and Farm
 css: default.css
 
+0. [Home](index.html)
 1. [Cider](cider.html)
 2. [Store](store.html)
 3. [Farm](farm.html)

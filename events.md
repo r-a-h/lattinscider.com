@@ -7,6 +7,7 @@ css: default.css
 3. [Farm](farm.html)
 4. [Bakery](bakery.html)
 5. [Gardens](gardens.html)
+6. [Events](events.html)
 7. [Tours](tours.html)
 8. [Parties](parties.html)
 9. [Calendar](calendar.html)

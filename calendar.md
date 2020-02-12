@@ -10,6 +10,7 @@ css: default.css
 6. [Events](events.html)
 7. [Tours](tours.html)
 8. [Parties](parties.html)
+9. [Calendar](calendar.html)
 10. [Jobs](jobs.html)
 
 # Lattin's Calendar
