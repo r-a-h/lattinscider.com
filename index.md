@@ -87,6 +87,5 @@ Please pay cashier first.
 
 ## Orders and Requests
 
-Please visit the farm, call the store, or email us.
-Let us know what you want and when you want it.
+Please call the store, [(360) 491-7328](tel:+1-360-491-7328), and let us know what you want and when you want it.
 
