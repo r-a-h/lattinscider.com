@@ -131,7 +131,6 @@ You can combine them with our dried fruit, honey, jam, and syrups for a wonderfu
 
 Come and see our beautiful Christmas lights!
 The farm is transformed into an extravagant WINTER WONDERLAND.
-Pick out the perfect pre-cut Christmas tree for your home!
 
 *Closed Christmas Day*
 
