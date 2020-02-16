@@ -29,6 +29,16 @@ The apples are ground and pressed into cider, pasteurized, and bottled immediate
 No additives, preservatives or sweeteners-- Just great apple flavor.
 We test each batch the old-fashioned way; we taste it.
 
+## Locations
+
+Look for our all natural award-winning Country Cider Mill brand at stores throughout the Puget Sound and the Portland Metropolitan area.
+
+Come visit our farm store!
+
+We also deliver to stores all over Snohomish, King, Thurston, Pierce, Kitsap counties in Washington, and in Clackamas, Multnomah & Washington counties in Oregon.
+If you don't see it on your grocer's shelf, ask for it!
+...and then call us for a location near you!
+
 ## Orders
 
 Please call the farm, [(360) 491-7328](tel:+1-360-491-7328), for orders.
@@ -79,11 +89,4 @@ Spiced cider tastes amazing both hot and cold.
 Boil cider for sauces and glazes.
 Add sweetness to deserts and savory dishes.
 Mix your own blended berries, flavor packets, or ice cream with our cider!
-
-## Locations
-
-Look for our all natural award-winning Country Cider Mill brand at stores throughout the Puget Sound and the Portland Metropolitan area.
-We deliver to stores all over Snohomish, King, Thurston, Pierce, Kitsap counties in Washington, and in Clackamas, Multnomah & Washington counties in Oregon.
-If you don't see it on your grocer's shelf, ask for it!
-...and then call us for a location near you!
 
