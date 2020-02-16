@@ -25,12 +25,12 @@ Shop here for a wide variety of **apples**, **peaches**, **berries**, **plums**,
 
 With our ability to refrigerate apples and pears at just the right temperature, you can be assured of a crisp mouthful when you bite into them any time of year!
 
-Stop in and enjoy our famous apple fritters, if you don’t think you like fritters you just haven’t had these.
+Stop in and enjoy our famous apple fritters, if you don't think you like fritters you just haven't had these.
 They melt in your mouth leaving you wanting more!
 We also bake Christmas cookies and make a variety of yummy desserts.
 Thinking of a perfect home-baked dessert?
 We have a wide assortment of ready-to-bake frozen pies.
-If you’re planning ahead for the holidays, pick yours up early or call and place your order so it will be waiting for you.
+If you're planning ahead for the holidays, pick yours up early or call and place your order so it will be waiting for you.
 
 ![Peaches](images/peaches.jpg)
 

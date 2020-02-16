@@ -23,10 +23,10 @@ Our small family owned farm has been in business since 1976 and we work year aro
 Our products are all homemade from natural ingredients -- just like your grandmother used to make!
 
 We invite you to bring your family & friends, wander around our flower and vegetable gardens, picnic, and feed the animals.
-Kids will enjoy our play area including a maze that’s open all year.
-While you’re here, be sure to visit our farm's store!
+Kids will enjoy our play area including a maze that's open all year.
+While you're here, be sure to visit our farm's store!
 
-All year long you can buy our award-winning apple cider, Eastern Washington Fruit, farm fresh eggs, fruit syrups, dried fruit, honey, jam, smoked salmon, Johnson’s Smokehouse meat & cheese products, crisp apples, and delicious frozen ready-to-bake pies.
+All year long you can buy our award-winning apple cider, Eastern Washington Fruit, farm fresh eggs, fruit syrups, dried fruit, honey, jam, smoked salmon, Johnson's Smokehouse meat & cheese products, crisp apples, and delicious frozen ready-to-bake pies.
 Look for fresh seasonal fruit and produce.
 Try our many assorted baked-fresh-daily pastries & donuts, and hot and cold ciders!
 And stop by on Thursday & Friday before noon or Saturday & Sunday for great tasting apple fritters!
@@ -67,7 +67,7 @@ We have about two cords of dry firewood for sale!
 $350, you haul.
 Please pay cashier first.
 
-## We’re Open All Year!
+## We're Open All Year!
 
 ### January through May
 

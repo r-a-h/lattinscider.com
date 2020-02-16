@@ -66,7 +66,7 @@ We bring our caramel apples and baked pies!
 
 ![Overflowing apple basket](images/apple-basket.jpg)
 
-Celebrate Washington’s Apple Harvest with us at the farm.
+Celebrate Washington's Apple Harvest with us at the farm.
 
 - When: Last weekend of September and every weekend in October, 9 am to 5pm.
 - Where: Lattin's Country Cider Mill & Farm, [9402 Rich Road SE Olympia WA 98501](http://maps.apple.com/?daddr=9402%20Rich%20Road%20SE%20Olympia%20WA%2098501)
