@@ -84,3 +84,7 @@ Please pay cashier first.
 
 Please call the store, [(360) 491-7328](tel:+1-360-491-7328), and let us know what you want and when you want it.
 
+---
+
+> Please send questions or comments about this website to <webmaster@lattinscider.com>.
+
