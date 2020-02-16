@@ -61,9 +61,9 @@ Here's why it's award winning:
 - No Concentrates
 - Just 100% Juice
 
-## Berry Cider
+## Flavored Cider
 
-We make berry cider, too!  Our flavors are:
+We make berry and spiced cider, too!  Our flavors are:
 
 ### Strawberry
 
@@ -71,7 +71,7 @@ We make berry cider, too!  Our flavors are:
 
 ### Raspberry
 
-## Spiced Cider
+### Spiced Cider
 
 Spiced cider tastes amazing both hot and cold.
 
