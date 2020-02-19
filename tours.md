@@ -65,7 +65,7 @@ Animal tours start inside our store and include:
 
 Finally, the children ride on the animal train!
 
-![Animal train](images/animal-train.jpg)
+![Animal train](images/animal-train.jpg =500x333)
 
 ## Senior Tours
 
@@ -80,7 +80,7 @@ Senior tours start inside our store and includes:
 The steps on the wagon are steep but leaving the wagon during the tour is optional.
 We'll discuss the entire farm while bringing animals to you to see, touch, and feed.
 
-![Rooster](images/rooster.jpg)
+![Rooster](images/rooster.jpg =300x450)
 
 ## Buses
 

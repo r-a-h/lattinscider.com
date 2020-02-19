@@ -15,7 +15,7 @@ css: default.css
 
 # Lattin's Country Store
 
-1. ![Assorted produce](images/produce-assortment.jpg)
+1. ![Assorted produce](images/produce-assortment.jpg =300x188)
 
 Visit our country store with all kinds of gift ideas for everyone.
 
@@ -32,13 +32,13 @@ Thinking of a perfect home-baked dessert?
 We have a wide assortment of ready-to-bake frozen pies.
 If you're planning ahead for the holidays, pick yours up early or call and place your order so it will be waiting for you.
 
-![Peaches](images/peaches.jpg)
+![Peaches](images/peaches.jpg =550x367)
 
 ## Orders, Requests, and Pre-Orders
 
 *Please call* the farm, [(360) 491-7328](tel:+1-360-491-7328), *ahead of time* if you are looking for a specific amount of produce by the box.
 
-![Tomatoes](images/tomatoes.jpg)
+![Tomatoes](images/tomatoes.jpg =629x498)
 
 ## Our Products
 
@@ -52,7 +52,7 @@ If you're planning ahead for the holidays, pick yours up early or call and place
 
 ### Dried Apple Chips
 
-![Apples and Fruit](images/apples-and-fruit.jpg)
+![Apples and Fruit](images/apples-and-fruit.jpg =300x204)
 
 ## Apples
 

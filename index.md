@@ -15,7 +15,7 @@ css: default.css
 
 # Lattin's Country Cider Mill & Farm
 
-1. ![Our wheel house](images/our-wheel-house.jpg)
+1. ![Our wheel house](images/our-wheel-house.jpg =550x367)
 
 ## About Us
 
@@ -39,7 +39,7 @@ We transform our farm into a WINTER WONDERLAND in December with thousands of lig
 We look forward to seeing you soon! \
 *Carolyn Lattin* and daughters, *Debbie* & *Sherrie*
 
-![Cute pig](images/pig-cute.jpg)
+![Cute pig](images/pig-cute.jpg =300x225)
 
 ## Contact Us
 
@@ -78,7 +78,7 @@ Please pay cashier first.
 9 am to 5:30 pm Monday to Saturday \
 9 am to 4 pm Sundays
 
-![Our store](images/our-store.jpg)
+![Our store](images/our-store.jpg =250x150)
 
 ## Orders, Requests, and Pre-Orders
 

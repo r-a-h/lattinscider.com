@@ -48,8 +48,8 @@ Please check our announcements, ask inside our store, or call the farm, [(360) 4
 
 ### Barred Rock Chicken
 
-![Barred rock chickens](images/chickens-barred-rock.jpg)
-![Chicks](images/chicks.jpg)
+![Barred rock chickens](images/chickens-barred-rock.jpg =250x167)
+![Chicks](images/chicks.jpg =250x167)
 
 ### Geese
 

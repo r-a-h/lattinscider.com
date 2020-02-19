@@ -15,7 +15,7 @@ css: default.css
 
 # Lattin's Gardens 🌱
 
-![Sunflower pulled to face](images/sunflower-in-face.jpg)
+![Sunflower pulled to face](images/sunflower-in-face.jpg =300x300)
 
 Debbie farms with her heart and her plants thrive.
 

@@ -17,7 +17,7 @@ css: default.css
 
 ## Easter Egg Hunt 🐰
 
-![Easter Eggs](images/easter-eggs.jpg)
+![Easter Eggs](images/easter-eggs.jpg =250x245)
 
 Come to our farm the Easter egg hunt!
 Come early and enjoy our other activities.
@@ -64,7 +64,7 @@ We bring our caramel apples and baked pies!
 
 ## Apple Festival 🍂
 
-![Overflowing apple basket](images/apple-basket.jpg)
+![Overflowing apple basket](images/apple-basket.jpg =500x277)
 
 Celebrate Washington's Apple Harvest with us at the farm.
 
