@@ -43,7 +43,7 @@ We look forward to seeing you soon! \
 
 ## Contact Us
 
-Visit: [9402 Rich Road SE Olympia WA 98501](http://maps.apple.com/?daddr=9402%20Rich%20Road%20SE%20Olympia%20WA%2098501) \
+Visit: [9402 Rich Road SE Olympia WA 98501](http://maps.apple.com/?daddr=9402%20Rich%20Road%20SE%20Olympia%20WA%2098501) -- 3.5 miles south of Olympia Airport on Old Highway 99 to Rich Road \
 Call: [(360) 491-7328](tel:+1-360-491-7328) \
 Email: lattinscider@comcast.net \
 Facebook: [Lattin's Cider](https://www.facebook.com/LattinsCider)
