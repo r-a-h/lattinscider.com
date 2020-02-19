@@ -1,4 +1,4 @@
-title: Lattin's Country Cider Mill and Farm
+title: Lattin's Country Cider Mill & Farm
 css: default.css
 
 0. [Home](index.html)
@@ -13,7 +13,7 @@ css: default.css
 9. [Calendar](calendar.html)
 10. [Jobs](jobs.html)
 
-# Lattin's Country Cider Mill and Farm
+# Lattin's Country Cider Mill & Farm
 
 1. ![Our wheel house](images/our-wheel-house.jpg)
 
