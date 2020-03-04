@@ -17,6 +17,25 @@ css: default.css
 
 1. ![Our wheel house](images/our-wheel-house.jpg =550x367)
 
+## Announcements
+
+### Apple Fritters & Hot Cider
+
+Come beat the winter blues with freshly made apple fritters and fresh hot cider Thursday, Friday, and Saturday!
+We make fresh cider every Monday.
+
+### Get Ready for Spring
+
+New babies will arrive!
+Cute and cuddly...
+The first produce arrives, too.
+
+### Firewood Sale!
+
+We have about two cords of dry firewood for sale!
+$350, you haul.
+Please pay cashier first.
+
 ## About Us
 
 Our small family owned farm has been in business since 1976 and we work year around to bring you the highest quality fruits and vegetables.
@@ -47,25 +66,6 @@ Visit: [9402 Rich Road SE Olympia WA 98501](http://maps.apple.com/?daddr=9402%20
 Call: [(360) 491-7328](tel:+1-360-491-7328) \
 Email: lattinscider@comcast.net \
 Facebook: [Lattin's Cider](https://www.facebook.com/LattinsCider)
-
-## Announcements
-
-### Apple Fritters & Hot Cider
-
-Come beat the winter blues with freshly made apple fritters and fresh hot cider Thursday, Friday, and Saturday!
-We make fresh cider every Monday.
-
-### Get Ready for Spring
-
-New babies will arrive!
-Cute and cuddly...
-The first produce arrives, too.
-
-### Firewood Sale!
-
-We have about two cords of dry firewood for sale!
-$350, you haul.
-Please pay cashier first.
 
 ## We're Open All Year!
 
