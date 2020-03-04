@@ -19,10 +19,10 @@ css: default.css
 
 ![Easter Eggs](images/easter-eggs.jpg =250x245)
 
-Come to our farm the Easter egg hunt!
+Come to our farm for the Easter egg hunt!
 Come early and enjoy our other activities.
 
-- Egg Hunt: Day before Easter at 1pm
+- Egg Hunt: Day before Easter at **1pm**
 - Activities: 9 am to 5 pm
 - Where: Lattin's Country Cider Mill & Farm, [9402 Rich Road SE Olympia WA 98501](http://maps.apple.com/?daddr=9402%20Rich%20Road%20SE%20Olympia%20WA%2098501)
 - Admission: No charge
