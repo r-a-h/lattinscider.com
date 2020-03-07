@@ -42,7 +42,7 @@ We'll also have games to play and plant starts for sale.
 
 On March 26th, we planted the first seeds in trays.
 These starters will be for our plants and yours!
-Email your interests to <garden@lattinscider.com>.
+Please call the farm or email your interests to <garden@lattinscider.com>.
 
 ### Come in for Apple Fritters & Hot Cider on Thursdays, Fridays, and Saturdays!
 
