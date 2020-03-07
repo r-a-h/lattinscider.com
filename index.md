@@ -96,8 +96,7 @@ We look forward to seeing you soon! \
 We want to hear from you!
 You can help improve this site.
 Please email your pictures and stories to <funtimes@lattinscider.com>.
+Please send any other comments to <comments@lattinscider.com>.
 
-Please send any comments to <comments@lattinscider.com>.
-
-Our default business email remains <lattinscider@comcast.net>.
+Our business email remains <lattinscider@comcast.net>.
 
