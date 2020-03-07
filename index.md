@@ -99,3 +99,5 @@ Please email your pictures and stories to <funtimes@lattinscider.com>.
 
 Please send any comments to <comments@lattinscider.com>.
 
+Our default business email remains <lattinscider@comcast.net>.
+
