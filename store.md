@@ -17,7 +17,7 @@ css: default.css
 
 1. ![Assorted produce](images/produce-assortment.jpg =300x188)
 
-Visit our country store with all kinds of gift ideas for everyone.
+    > Visit our country store with all kinds of gift ideas for everyone.
 
 People come from all over South Puget Sound just for our fruit!
 We partner with reliable growers in Washington to ensure we always have the best selection!

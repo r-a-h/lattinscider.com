@@ -15,7 +15,7 @@ css: default.css
 
 # Lattin's Farm
 
-Come see for yourself.
+0. Come see for yourself.
 
 You can see and feed baby animals.
 Every spring brings new arrivals.
