@@ -15,10 +15,11 @@ css: default.css
 
 # Lattin's Country Cider Mill & Farm
 
-1. ![Our wheel house](images/our-wheel-house.jpg =550x367)
-2. [9402 Rich Road SE Olympia WA 98501](http://maps.apple.com/?daddr=9402%20Rich%20Road%20SE%20Olympia%20WA%2098501) \
-   3.5 miles south of Olympia Airport on Old Highway 99 to Rich Road
-3. [(360) 491-7328](tel:+1-360-491-7328) -- lattinscider@comcast.net -- [Facebook](https://www.facebook.com/LattinsCider)
+1. ![Our wheel house](images/our-wheel-house.jpg =550x367) \
+   [9402 Rich Road SE Olympia WA 98501](http://maps.apple.com/?daddr=9402%20Rich%20Road%20SE%20Olympia%20WA%2098501) \
+   3.5 miles south of Olympia Airport on Old Highway 99 to Rich Road \
+   \
+   [(360) 491-7328](tel:+1-360-491-7328) -- lattinscider@comcast.net -- [Facebook](https://www.facebook.com/LattinsCider)
 
 ## Hours
 
