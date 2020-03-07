@@ -15,6 +15,8 @@ css: default.css
 
 # Country Cider
 
+0.  ``It tastes just like eating an apple, except you don't have to chew.''
+
 Our family likes things that work right every time.
 Since 1976, we've been perfecting our cider making process!
 It starts with apples purchased directly from the same high quality growers every year.
