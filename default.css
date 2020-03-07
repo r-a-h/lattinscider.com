@@ -44,7 +44,7 @@ ol > li {
 	padding: 0.5em;
 	font-size: 120%;
 }
-img {
+ol > li> img {
 	padding: 0.1rem;
 	border: 0.1rem solid rgba(255, 128, 128, 0.1);
 	border-radius: 6px;
