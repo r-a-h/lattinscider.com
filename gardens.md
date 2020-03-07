@@ -19,6 +19,10 @@ css: default.css
 
 Debbie farms with her heart and her plants thrive.
 
+## Plant Starts
+
+We started planting seeds in trays on Thursday, March 26th.
+
 ## Produce, Fruit, Herbs, and Flowers 💐
 
 We are planning the 2020 growing season.
