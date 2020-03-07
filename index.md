@@ -27,7 +27,7 @@ css: default.css
 
    **June through December** \
    Monday to Saturday, 9 am to 5:30 pm \
-   and Sundays, 9 am to 4 pm
+   ...*and* Sundays, 9 am to 4 pm
 
 1. ![Our store](images/our-store.jpg =250x150)
 
