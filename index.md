@@ -33,21 +33,23 @@ css: default.css
 
 ## Announcements
 
-### Easter Events
+### Easter Egg Hunt is Saturday, April 11th, at 1pm.
 
-Our Easter Egg Hunt will be on Saturday, April 11th, at 1pm.
+Our Easter Egg Hunt is the day before Easter.
 We'll also have games to play and plant starts for sale.
 
-### Apple Fritters & Hot Cider
+### Come in for Apple Fritters & Hot Cider on Thursdays, Fridays, and Saturdays!
 
-Come beat the winter blues with freshly made apple fritters and fresh hot cider Thursday, Friday, and Saturday!
-We make fresh cider every Monday.
+Come beat the winter blues with freshly made apple fritters and fresh hot cider.
+They're available Thursday & Friday mornings, and all day Saturday!
+We still make fresh cider every Monday.
 
 ### Get Ready for Spring
 
 New babies will arrive!
 Cute and cuddly...
 The first produce arrives, too.
+We're getting ready, too!
 
 ### Firewood Sale!
 
