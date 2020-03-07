@@ -88,7 +88,7 @@ Spiced cider tastes amazing both hot and cold.
 
 ## Use Our Cider
 
-Boil cider for sauces and glazes.
-Add sweetness to deserts and savory dishes.
-Mix your own blended berries, flavor packets, or ice cream with our cider!
+- Boil cider for sauces and glazes.
+- Cider adds sweetness to deserts and savory dishes.
+- Mix your own blended berries, flavor packets, or ice cream with our cider!
 
