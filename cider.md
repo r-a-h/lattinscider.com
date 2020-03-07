@@ -92,3 +92,7 @@ Spiced cider tastes amazing both hot and cold.
 - Cider adds sweetness to deserts and savory dishes.
 - Mix your own blended berries, flavor packets, or ice cream with our cider!
 
+## Hard Cider
+
+Our apple cider has no preservatives and is regularly used for hard cider.
+
