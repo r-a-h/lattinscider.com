@@ -55,6 +55,10 @@ We have about two cords of dry firewood for sale!
 $350, you haul.
 Please pay cashier first.
 
+## Orders, Requests, and Pre-Orders
+
+Please call the store, [(360) 491-7328](tel:+1-360-491-7328), and let us know what you want and when you want it.
+
 ## About Us
 
 Our small family owned farm has been in business since 1976 and we work year around to bring you the highest quality fruits and vegetables.
@@ -78,10 +82,6 @@ We look forward to seeing you soon! \
 *Carolyn Lattin* and daughters, *Debbie* & *Sherrie*
 
 ![Cute pig](images/pig-cute.jpg =300x225)
-
-## Orders, Requests, and Pre-Orders
-
-Please call the store, [(360) 491-7328](tel:+1-360-491-7328), and let us know what you want and when you want it.
 
 ## Website Contact
 
