@@ -83,7 +83,11 @@ We look forward to seeing you soon! \
 
 Please call the store, [(360) 491-7328](tel:+1-360-491-7328), and let us know what you want and when you want it.
 
----
+## Website Contact
 
-> Please email any comments about this website to <webmaster@lattinscider.com>.
+We want to hear from you!
+You can help improve this site.
+Please email your pictures and stories to <funtimes@lattinscider.com>.
+
+Please send any comments to <comments@lattinscider.com>.
 
