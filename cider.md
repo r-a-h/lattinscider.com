@@ -45,7 +45,7 @@ If you don't see it on your grocer's shelf, ask for it!
 
 Please call the farm, [(360) 491-7328](tel:+1-360-491-7328), for orders.
 
-## It's Award Winning
+## It's Award Winning 🏆
 
 Our cider has won several national awards including First Place at the North American Farmers Direct Marketing Association.
 
