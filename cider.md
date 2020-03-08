@@ -63,11 +63,12 @@ Here's why it's award winning:
 
 ## Locations
 
-Look for our all natural award-winning Country Cider Mill brand at stores throughout the Puget Sound and the Portland Metropolitan area.
+Look for our Country Cider Mill brand at stores throughout the Puget Sound and the Portland Metropolitan area.
+We deliver to stores all over Snohomish, King, Thurston, Pierce, Kitsap counties in Washington,
+and in Clackamas, Multnomah & Washington counties in Oregon.
 
-Come visit our farm store!
+Or come visit our farm store!
 
-We also deliver to stores all over Snohomish, King, Thurston, Pierce, Kitsap counties in Washington, and in Clackamas, Multnomah & Washington counties in Oregon.
 If you don't see it on your grocer's shelf, ask for it!
 ...and then call us for a location near you!
 
