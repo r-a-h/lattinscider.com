@@ -90,8 +90,5 @@ Please call the farm, [(360) 491-7328](tel:+1-360-491-7328), for orders.
 - Boil cider for sauces and glazes.
 - Cider adds sweetness to deserts and savory dishes.
 - Mix your own blended berries, flavor packets, or ice cream with our cider!
-
-## Hard Cider
-
-Our apple cider has no preservatives and is regularly used for hard cider.
+- Make hard cider because it has no preservatives.
 
