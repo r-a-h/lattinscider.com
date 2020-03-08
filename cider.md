@@ -15,7 +15,8 @@ css: default.css
 
 # Country Cider
 
-0. ``It tastes just like eating an apple, except you don't have to chew.''
+0. ![Five Flavors of Cider in Half Gallon Jugs](images/cider-all-half-gallons.jpg =960x676) \
+   ``It tastes just like eating an apple, except you don't have to chew.''
 
 Our family likes things that work right every time.
 Since 1976, we've been perfecting our cider making process!
