@@ -15,6 +15,8 @@ css: default.css
 
 # Lattin's Bakery
 
+0. ![Cookies on a Tray](images/cookie-tray.jpg =960x640)
+
 ## Locations
 
 Our baked goods are sold all year at our country store in Olympia.
