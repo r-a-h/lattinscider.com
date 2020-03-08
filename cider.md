@@ -30,6 +30,37 @@ Yes, it's time-consuming but it eliminates any chance of impurities in the cider
 The apples are ground and pressed into cider which is flash pasteurized and bottled immediately.
 No additives, preservatives or sweeteners-- Just great apple flavor.
 
+## Award Winning Apple Cider 🏆
+
+Our cider won several national awards including First Place at the North American Farmers Direct Marketing Association.
+Here's why it's award winning:
+
+- Pressed only from Washington Grown Apples
+- Each Apple Inspected and Hand Cut
+- Cold Pressed
+- Unfiltered
+- Flash Pasteurized
+- No Sweeteners
+- No Concentrates
+- No Preservatives
+- *Just 100% Juice*
+
+### Cider Flavors
+
+- Apple
+- Strawberry
+- Blackberry
+- Raspberry
+- Spiced --- tastes amazing both hot and cold.
+
+### Cider Sizes
+
+- Gallon
+- Half Gallon
+- Quart
+- Pint
+- Half Pint
+
 ## Locations
 
 Look for our all natural award-winning Country Cider Mill brand at stores throughout the Puget Sound and the Portland Metropolitan area.
@@ -43,38 +74,6 @@ If you don't see it on your grocer's shelf, ask for it!
 ## Orders
 
 Please call the farm, [(360) 491-7328](tel:+1-360-491-7328), for orders.
-
-## It's Award Winning 🏆
-
-Our cider has won several national awards including First Place at the North American Farmers Direct Marketing Association.
-
-## Apple Cider
-
-We make our cider by the gallon, half gallon, quart, pint, and half pint.
-Here's why it's award winning:
-
-- Pressed only from Washington Grown Apples
-- Each Apple Inspected and Hand Cut
-- Cold Pressed
-- Flash Pasteurized
-- Unfiltered
-- No Sweeteners
-- No Concentrates
-- Just 100% Juice
-
-## Flavored Cider
-
-We make berry and spiced cider, too!  Our flavors are:
-
-### Strawberry
-
-### Blackberry
-
-### Raspberry
-
-### Spiced Cider
-
-Spiced cider tastes amazing both hot and cold.
 
 ## We Love Our Cider 🥰
 
