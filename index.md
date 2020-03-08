@@ -21,7 +21,7 @@ css: default.css
    \
    [(360) 491-7328](tel:+1-360-491-7328) -- lattinscider@comcast.net -- [Facebook](https://www.facebook.com/LattinsCider)
 
-## Hours
+## Hours 🕘
 
 1. **All Year** \
    Monday to Saturday, 9 am to 5:30 pm
@@ -32,7 +32,7 @@ css: default.css
 
 1. ![Our store](images/our-store.jpg =250x150)
 
-## Announcements
+## Announcements 📢
 
 ### Easter Egg Hunt is Saturday, April 11th, at 1pm.
 
@@ -64,11 +64,11 @@ We have about two cords of dry firewood for sale!
 $350, you haul.
 Please pay cashier first.
 
-## Orders, Requests, and Pre-Orders
+## Orders, Requests, and Pre-Orders 📦
 
 Please call the store, [(360) 491-7328](tel:+1-360-491-7328), and let us know what you want and when you want it.
 
-## About Us
+## About Us 👩‍👧‍👧
 
 Our small family owned farm has been in business since 1976 and we work year around to bring you the highest quality fruits and vegetables.
 Our products are all homemade from natural ingredients -- just like your grandmother used to make!
@@ -92,7 +92,7 @@ We look forward to seeing you soon! \
 
 ![Cute pig](images/pig-cute.jpg =300x225)
 
-## Website Contact
+## Website Contact 🖊️
 
 We want to hear from you!
 You can help improve this site.
