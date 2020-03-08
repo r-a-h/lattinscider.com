@@ -17,7 +17,8 @@ css: default.css
 
 ## Easter Egg Hunt 🐰
 
-![Easter Eggs](images/easter-eggs.jpg =250x245)
+![Easter Eggs](images/easter-egg-hunt-ages-3-and-4.jpg =486x648)
+![Easter Bunny with East Olympia Fire Department](images/easter-with-eofd.jpg =960x960)
 
 Come to our farm for the Easter egg hunt!
 Come early and enjoy our other activities.
