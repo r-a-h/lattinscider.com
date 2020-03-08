@@ -20,7 +20,7 @@ css: default.css
 
 ## Plant Starts
 
-We started planting seeds in trays on Thursday, March 26th.
+We started planting seeds in trays on Thursday, March 5th.
 
 ## Produce, Fruit, Herbs, and Flowers 💐
 
