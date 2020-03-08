@@ -15,7 +15,8 @@ css: default.css
 
 # Lattin's Farm
 
-0. Come see for yourself.
+0. ![Peacock showing train](images/peacock-showing-train.jpg =960x640) \
+   Come see for yourself.
 
 You can see and feed baby animals.
 Every spring brings new arrivals.
