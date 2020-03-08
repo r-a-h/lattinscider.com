@@ -74,19 +74,19 @@ Please call the store, [(360) 491-7328](tel:+1-360-491-7328), and let us know wh
 Our small family owned farm has been in business since 1976 and we work year around to bring you the highest quality fruits and vegetables.
 Our products are all homemade from natural ingredients -- just like your grandmother used to make!
 
-We invite you to bring your family & friends, wander around our flower and vegetable gardens, picnic, and feed the animals.
+We invite you to bring your family & friends, wander around our [flower and vegetable gardens](gardens.html), picnic, and feed the [animals](farm.html).
 Kids will enjoy our play area including a maze that's open all year.
-While you're here, be sure to visit our farm's store!
+While you're here, be sure to visit our [farm's store](store.html)!
 
-All year long you can buy our award-winning apple cider, Eastern Washington Fruit, farm fresh eggs, fruit syrups, dried fruit, honey, jam, smoked salmon, Johnson's Smokehouse meat & cheese products, crisp apples, and delicious frozen ready-to-bake pies.
+All year long you can buy our [award-winning apple cider](cider.html), Eastern Washington Fruit, farm fresh eggs, fruit syrups, dried fruit, honey, jam, smoked salmon, Johnson's Smokehouse meat & cheese products, crisp apples, and delicious frozen ready-to-bake pies.
 Look for fresh seasonal fruit and produce.
 Try our many assorted baked-fresh-daily pastries & donuts, and hot and cold ciders!
 And stop by on Thursday & Friday before noon or Saturday & Sunday for great tasting apple fritters!
 
-Join us for special [EVENTS](events.html) throughout the year.
-Kids love our Easter Egg Hunt!
-Our fall APPLE FESTIVAL features tractor-drawn wagon rides to our Pumpkin Patch, the Maze, and wonderful food & drinks.
-We transform our farm into a WINTER WONDERLAND in December with thousands of lights.
+Join us for special [events](events.html) throughout the year.
+Kids love our [Easter Egg Hunt](events.html#Easter%20Egg%20Hunt%20%F0%9F%90%B0)!
+Our fall [Apple Festival](events.html#Apple%20Festival%20%F0%9F%8D%82) features tractor-drawn wagon rides to our Pumpkin Patch, the Maze, and wonderful food & drinks.
+We transform our farm into a [Winter Wonderland](events.html#Drive%20Through%20Christmas%20Lights%20%F0%9F%8E%84) in December with thousands of lights.
 
 We look forward to seeing you soon! \
 *Carolyn Lattin* and daughters, *Debbie* & *Sherrie*
