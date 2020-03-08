@@ -18,18 +18,17 @@ css: default.css
 0. ``It tastes just like eating an apple, except you don't have to chew.''
 
 Our family likes things that work right every time.
-Since 1976, we've been perfecting our cider making process!
-It starts with apples purchased directly from the same high quality growers every year.
-We store them at a PERFECT 32 degree temperature so they are always crisp.
+Since 1976, we've been perfecting our cider making process!
+We store apples purchased directly from the same high quality growers every year
+at a *perfect* 32 degree temperature so they are always crisp.
+Up to *75 tons of apples* are used on a busy day and only about 17 tons on a slow day.
+To ensure delicious and consistent cider flavor, we mix several varieties in just the right combination.
+Each batch is tested the old-fashioned way; taste it.
 
-How about 17 to 25 TONS of apples a day in our slow time and up to 75 tons a day in our busier times?
-To ensure consistent cider flavor, we mix several varieties in just the right combination to produce over 4000 gallons of the best cider every week.
-All the sorting, cutting, and washing is done by hand.
+We sort, cut, and wash the apples hand.
 Yes, it's time-consuming but it eliminates any chance of impurities in the cider.
-
-The apples are ground and pressed into cider, pasteurized, and bottled immediately.
+The apples are ground and pressed into cider which is flash pasteurized and bottled immediately.
 No additives, preservatives or sweeteners-- Just great apple flavor.
-We test each batch the old-fashioned way; we taste it.
 
 ## Locations
 
