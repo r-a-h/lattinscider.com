@@ -34,16 +34,17 @@ css: default.css
 
 ## Announcements 📢
 
-### Easter Egg Hunt is Saturday, April 11th, at 1pm.
+### Easter Egg Hunt is Saturday, April 11th, at 1pm
 
 Our Easter Egg Hunt is the day before Easter.
 We'll also have games to play and plant starts for sale.
 
-### Plant Starts
+### Plant Starts Available in April
 
-On March 26th, we planted the first seeds in trays.
-These starters will be for our plants and yours!
-Please call the farm or email your interests to <garden@lattinscider.com>.
+On March 5th, we planted the first seed trays in the Greenhouse behind the Mill.
+These starters will be for our plants *and* yours.
+Please call the farm or email your interests to <garden@lattinscider.com>,
+or just show up and ask to see what's available.
 
 ### Come in for Apple Fritters & Hot Cider on Thursdays, Fridays, and Saturdays!
 
