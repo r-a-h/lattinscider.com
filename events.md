@@ -91,6 +91,8 @@ On the last weekend of Apple Fest this year, our farm becomes haunted to celebra
 
 ## Drive Through Christmas Lights 🎄
 
+![Christmas Lights](images/christmas-lights.jpg =709x249)
+
 Come and see our beautiful Christmas lights!
 The farm is transformed into an extravagant WINTER WONDERLAND.
 
