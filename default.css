@@ -48,11 +48,12 @@ ol > li> img {
 	padding: 0.1rem;
 	border: 0.1rem solid rgba(255, 128, 128, 0.1);
 	border-radius: 6px;
-	width: auto;
-	height: auto;
 	max-width: 100%;
 } 
 p > img {
 	max-height: 200px;
 }
-
+img {
+	width: auto;
+	height: auto;
+}
