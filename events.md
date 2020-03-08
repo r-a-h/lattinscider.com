@@ -40,12 +40,9 @@ Please call the farm, [(360) 491-7328](tel:+1-360-491-7328), a week ahead and we
 - Farm Information: [(360) 491-7328](tel:+1-360-491-7328)
 - Farmer's Market Information: <https://facebook.com/proctorfarmersmarket>
 
-### We won't be at the Market during Thurston County Fair
+### Saturdays we *won't* be at the Market
 
 - August 1st
-
-### We won't be at the Market during our Apple Festival
-
 - September 26th
 - October 3rd, 10th, 17th, 24th, 31st
 
