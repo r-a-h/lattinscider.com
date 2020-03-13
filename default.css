@@ -21,6 +21,7 @@ h1 {
 	text-shadow: 1px 1px 2px rgba(255, 128, 128, 0.5),
 	               0 0 0.1em rgba(255, 128, 128, 0.2),
 		       0 0 0.1em rgba(255, 0,   0,   0.2);
+	font-size: 1.6em;
 }
 h2 {
 	background-image: url("images/rosewood.png");
@@ -30,9 +31,11 @@ h2 {
 	text-shadow: 1px 1px 2px rgba(255, 128, 128, 0.5),
 	               0 0 0.1em rgba(255, 128, 128, 0.2),
 		       0 0 0.1em rgba(255, 0, 0, 0.2);
+	font-size: 1.4em;
 }
 h3 {
 	text-decoration-color: rgba(255, 128, 128, 0.5);
+	font-size: 1.2em;
 }
 ol {
 	text-align: center;
@@ -42,10 +45,16 @@ ol {
 ol > li {
 	display: inline-block;
 	padding: 0.5em;
-	font-size: 120%;
+	font-size: 1.2em;
 }
 p > img {
 	max-height: 200px;
+}
+ol > li > p > img {
+	max-width: 100%;
+}
+ol > li > img {
+	max-width: 100%;
 }
 img {
 	padding: 0.1rem;
@@ -54,4 +63,9 @@ img {
 	max-width: 66%;
 	width: auto;
 	height: auto;
+}
+@media screen and (max-width: 740px) {
+	img {
+		max-width: 100%;
+	}
 }
