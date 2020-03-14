@@ -30,7 +30,7 @@ css: default.css
 
 2. ![Our store](images/our-store.jpg =250x150)
 
-## Announcements &#x1f4e2;
+## Announcements
 
 ### Lattin's Remains Open-- but what about the Easter Egg Hunt?
 
@@ -70,7 +70,7 @@ Please pay cashier first.
 
 Please call the store, [(360) 491-7328](tel:+1-360-491-7328), and let us know what you want and when you want it.
 
-## About Us &#x1f469;&#x200d;&#x1f467;&#x200d;&#x1f467;
+## About Us
 
 Our small family owned farm has been in business since 1976 and we work year around to bring you the highest quality fruits and vegetables.
 Our products are all homemade from natural ingredients -- just like your grandmother used to make!
@@ -85,18 +85,20 @@ Try our many assorted baked-fresh-daily pastries & donuts, and hot and cold cide
 And stop by on Thursday & Friday before noon or Saturday & Sunday for great tasting apple fritters!
 
 Join us for special [events](events.html) throughout the year.
-Kids love our [Easter Egg Hunt](events.html#Easter%20Egg%20Hunt%20%F0%9F%90%B0)!
-Our fall [Apple Festival](events.html#Apple%20Festival%20%F0%9F%8D%82) features tractor-drawn wagon rides to our Pumpkin Patch, the Maze, and wonderful food & drinks.
-We transform our farm into a [Winter Wonderland](events.html#Drive%20Through%20Christmas%20Lights%20%F0%9F%8E%84) in December with thousands of lights.
+Kids love our [Easter Egg Hunt](events.html#Easter%20Egg%20Hunt)!
+Our fall [Apple Festival](events.html#Apple%20Festival) features tractor-drawn wagon rides to our Pumpkin Patch, the Maze, and wonderful food & drinks.
+We transform our farm into a [Winter Wonderland](events.html#Drive%20Through%20Christmas%20Lights) in December with thousands of lights.
 
-We look forward to seeing you soon! \
+We look forward to seeing you soon!
+&#x1f469;&#x200d;&#x1f467;&#x200d;&#x1f467; \
 *Carolyn Lattin* and daughters, *Debbie* & *Sherrie*
 
 ![Cute pig](images/pig-cute.jpg =300x225)
 
-## Website Contact &#x1f58a;
+## Website Contact
 
 You can help improve this site.
+&#x1f58a;
 Please email your pictures and stories to <funtimes@lattinscider.com>.
 We want to hear from you!
 Please send any other comments to <comments@lattinscider.com>.

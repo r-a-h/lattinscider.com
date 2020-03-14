@@ -13,9 +13,10 @@ css: default.css
 9. [Calendar](calendar.html)
 10. [Jobs](jobs.html)
 
-# Lattin's Job Opportunities &#x1f469;&#x200d;&#x1f33e;
+# Lattin's Job Opportunities
 
 As you can imagine, there is a lot of work involved in running a farm!
+&#x1f469;&#x200d;&#x1f33e;
 We care for animals, work in gardens, and produce cider.
 We also have a bakery, a store, a playground with a maze, and a tour service.
 Our farm is open nearly every day attracting locals who stop in for fresh produce, busloads of school children, and visitors from all over the world.
@@ -29,7 +30,9 @@ Tell us a little about yourself, your related work experience, the days & hours 
 Include a resume if you'd like.
 All of these positions require a light heart, a willing spirit, and the eligibility to work in the US.
 
-## Bakery Assistant &#x1f967;
+## Bakery Assistant
+
+&#x1f967;
 
 Work at the direction of the Baker.
 Measure, mix, and clean up!
@@ -81,16 +84,19 @@ Meet the public.
 Represent our farm.
 Sell produce, cider, and baked goods.
 
-## Delivery Driver &#x1f69a;
+## Delivery Driver
 
 Deliver our cider to the Seattle & Portland areas and pick up or deliver produce to other local farms.
+&#x1f69a;
 
-## Handy / Maintenance &#x1f527;
+## Handy / Maintenance
 
 Use mechanical and/or building skills to help with our farm equipment, upkeep, and maintenance.
+&#x1f527;
 
-## Harvest Help &#x1f33e;
+## Harvest Help
 
 Harvest help from mid-September to early November.
+&#x1f33e;
 Prepare our farm for Fall Festival that includes a Pumpkin Patch, music, food, and lots of visitors.
 

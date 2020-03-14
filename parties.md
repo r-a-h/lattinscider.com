@@ -13,9 +13,10 @@ css: default.css
 9. [Calendar](calendar.html)
 10. [Jobs](jobs.html)
 
-# Lattin's Parties &#x1f973;
+# Lattin's Parties
 
 Our farm is an ideal place for children's birthday parties, family picnics, and corporate retreats.
+&#x1f973;
 
 We have a commercial bakery and kitchen facilities.
 Please make arrangements before your event.

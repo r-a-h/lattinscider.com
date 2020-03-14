@@ -13,9 +13,10 @@ css: default.css
 9. [Calendar](calendar.html)
 10. [Jobs](jobs.html)
 
-# Lattin's Tours &#x1f973;
+# Lattin's Tours
 
 Consider Lattin's for educational field trips for schools.
+&#x1f973;
 All tours can use our party greenhouse to have lunch.
 Kids love running around the maze in our playground!
 Across from the play area are the bathrooms.

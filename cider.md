@@ -31,9 +31,10 @@ Yes, it's time-consuming but it eliminates any chance of impurities in the cider
 The apples are ground and pressed into cider which is flash pasteurized and bottled immediately.
 No additives, preservatives or sweeteners-- Just great apple flavor.
 
-## Award Winning Apple Cider &#xe131;
+## Award Winning Apple Cider
 
 Our cider won several national awards including First Place at the North American Farmers Direct Marketing Association.
+&#xe131;
 Here's why it's award winning:
 
 - Pressed only from Washington Grown Apples

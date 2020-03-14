@@ -13,10 +13,11 @@ css: default.css
 9. [Calendar](calendar.html)
 10. [Jobs](jobs.html)
 
-# Lattin's Gardens &#x1f331;
+# Lattin's Gardens
 
 0. ![Sunflower pulled to face](images/sunflower-in-face.jpg =300x300) \
    Debbie farms with her heart and her plants thrive.
+   &#x1f331;
 
 ## Plant Starts
 
