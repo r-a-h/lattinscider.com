@@ -15,29 +15,30 @@ css: default.css
 
 # Lattin's Country Cider Mill & Farm
 
-1. ![Our wheel house](images/our-wheel-house.jpg =550x367) \
+0. ![Our wheel house](images/our-wheel-house.jpg =550x367) \
    [9402 Rich Road SE Olympia WA 98501](http://maps.apple.com/?daddr=9402%20Rich%20Road%20SE%20Olympia%20WA%2098501) \
    3.5 miles south of Olympia Airport on Old Highway 99 to Rich Road \
    \
    [(360) 491-7328](tel:+1-360-491-7328) -- lattinscider@comcast.net -- [Facebook](https://www.facebook.com/LattinsCider)
 
-## Hours 🕘
-
-1. **All Year** \
+1. **We're Open All Year** \
    Monday to Saturday, 9 am to 5:30 pm
 
    **June through December** \
    Monday to Saturday, 9 am to 5:30 pm \
    ...*and* Sundays, 9 am to 4 pm
 
-1. ![Our store](images/our-store.jpg =250x150)
+2. ![Our store](images/our-store.jpg =250x150)
 
 ## Announcements 📢
 
-### Easter Egg Hunt is Saturday, April 11th, at 1pm
+### Lattin's Remains Open-- but what about the Easter Egg Hunt?
 
-Our Easter Egg Hunt is the day before Easter.
-We'll also have games to play and plant starts for sale.
+We're open during the [statewide ban on large gatherings](https://medium.com/wagovernor/inslee-announces-statewide-school-closures-expansion-of-limits-on-large-gatherings-63d442111438#0b80).
+However, our April 11th Easter Egg Hunt is a large gathering and will be either cancelled or changed.
+&#x1f615;
+What can we do?
+Email us at egghunt@lattinscider.com.
 
 ### Plant Starts Available in April
 
