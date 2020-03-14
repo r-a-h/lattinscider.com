@@ -1,4 +1,4 @@
-title: Lattin's Events
+title: Events Calendar
 css: default.css
 
 0. [Home](index.html)

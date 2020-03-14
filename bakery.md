@@ -1,4 +1,4 @@
-title: Lattin's Bakery
+title: Bakery at Lattin's
 css: default.css
 
 0. [Home](index.html)

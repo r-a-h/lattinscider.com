@@ -1,4 +1,4 @@
-title: Lattin's Country Store
+title: Store at Lattin's
 css: default.css
 
 0. [Home](index.html)

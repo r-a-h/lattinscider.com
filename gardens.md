@@ -1,4 +1,4 @@
-title: Lattin's Gardens
+title: Gardens at Lattin's
 css: default.css
 
 0. [Home](index.html)
@@ -23,8 +23,8 @@ css: default.css
 
 We started planting seeds in trays on Thursday, March 5th.
 
-## Produce, Fruit, Herbs, and Flowers &#x1f490;
+## Produce, Fruit, Herbs, and Flowers
 
-We are planning the 2020 growing season.
-Please check back again soon.
+We are almost done planning the 2020 growing season.
+#&x1f490;
 

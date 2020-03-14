@@ -1,4 +1,4 @@
-title: Lattin's Tours
+title: Tours of Lattin's
 css: default.css
 
 0. [Home](index.html)

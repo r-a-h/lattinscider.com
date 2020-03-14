@@ -1,4 +1,4 @@
-title: Lattin's Calendar
+title: Calendar
 css: default.css
 
 0. [Home](index.html)

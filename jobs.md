@@ -1,4 +1,4 @@
-title: Lattin's Job Opportunities
+title: Jobs at Lattin's
 css: default.css
 
 0. [Home](index.html)
@@ -32,10 +32,9 @@ All of these positions require a light heart, a willing spirit, and the eligibil
 
 ## Bakery Assistant
 
-&#x1f967;
-
 Work at the direction of the Baker.
 Measure, mix, and clean up!
+&#x1f967;
 
 ## Cashier / Hostess
 

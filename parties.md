@@ -1,4 +1,4 @@
-title: Lattin's Parties
+title: Party at Lattin's
 css: default.css
 
 0. [Home](index.html)
