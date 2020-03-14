@@ -66,7 +66,7 @@ We have about two cords of dry firewood for sale!
 $350, you haul.
 Please pay cashier first.
 
-## Orders, Requests, and Pre-Orders 📦
+## Orders, Requests, and Pre-Orders
 
 Please call the store, [(360) 491-7328](tel:+1-360-491-7328), and let us know what you want and when you want it.
 
