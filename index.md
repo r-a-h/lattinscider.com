@@ -30,7 +30,7 @@ css: default.css
 
 2. ![Our store](images/our-store.jpg =250x150)
 
-## Announcements 📢
+## Announcements &#x1f4e2;
 
 ### Lattin's Remains Open-- but what about the Easter Egg Hunt?
 
@@ -70,7 +70,7 @@ Please pay cashier first.
 
 Please call the store, [(360) 491-7328](tel:+1-360-491-7328), and let us know what you want and when you want it.
 
-## About Us 👩‍👧‍👧
+## About Us &#x1f469;&#x200d;&#x1f467;&#x200d;&#x1f467;
 
 Our small family owned farm has been in business since 1976 and we work year around to bring you the highest quality fruits and vegetables.
 Our products are all homemade from natural ingredients -- just like your grandmother used to make!
@@ -94,7 +94,7 @@ We look forward to seeing you soon! \
 
 ![Cute pig](images/pig-cute.jpg =300x225)
 
-## Website Contact 🖊️
+## Website Contact &#x1f58a;
 
 You can help improve this site.
 Please email your pictures and stories to <funtimes@lattinscider.com>.

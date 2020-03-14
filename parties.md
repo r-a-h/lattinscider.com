@@ -13,7 +13,7 @@ css: default.css
 9. [Calendar](calendar.html)
 10. [Jobs](jobs.html)
 
-# Lattin's Parties 🥳
+# Lattin's Parties &#x1f973;
 
 Our farm is an ideal place for children's birthday parties, family picnics, and corporate retreats.
 

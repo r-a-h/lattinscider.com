@@ -31,7 +31,7 @@ Yes, it's time-consuming but it eliminates any chance of impurities in the cider
 The apples are ground and pressed into cider which is flash pasteurized and bottled immediately.
 No additives, preservatives or sweeteners-- Just great apple flavor.
 
-## Award Winning Apple Cider 🏆
+## Award Winning Apple Cider &#xe131;
 
 Our cider won several national awards including First Place at the North American Farmers Direct Marketing Association.
 Here's why it's award winning:
@@ -77,7 +77,7 @@ If you don't see it on your grocer's shelf, ask for it!
 
 Please call the farm, [(360) 491-7328](tel:+1-360-491-7328), for orders.
 
-## We Love Our Cider 🥰
+## We Love Our Cider &#x1f970;
 
 - In pie sauce for our Apple Pies
 - In our Cider Donuts

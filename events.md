@@ -15,7 +15,7 @@ css: default.css
 
 # Lattin's Events
 
-## Easter Egg Hunt 🐰
+## Easter Egg Hunt &#x1f430;
 
 ![Easter Eggs](images/easter-egg-hunt-ages-3-and-4.jpg =486x648)
 ![Easter Bunny with East Olympia Fire Department](images/easter-with-eofd.jpg =960x960)
@@ -31,7 +31,7 @@ Come early and enjoy our other activities.
 - Store Parking: Always no charge
 - Information: [(360) 491-7328](tel:+1-360-491-7328)
 
-## Proctor Farmer's Market 🧺
+## Proctor Farmer's Market &#x1f9fa;
 
 We bring a selection of our fresh produce, pies, donuts, cider, jams, syrups, and other seasonal favorites.
 Please call the farm, [(360) 491-7328](tel:+1-360-491-7328), a week ahead and we'll bring along any special requests.
@@ -47,7 +47,7 @@ Please call the farm, [(360) 491-7328](tel:+1-360-491-7328), a week ahead and we
 - September 26th
 - October 3rd, 10th, 17th, 24th, 31st
 
-## Thurston County Fair 🎟
+## Thurston County Fair &#x1f39f;
 
 Visit our booth at the fair!
 
@@ -60,7 +60,7 @@ Some of the yummy things we make are: funnel cakes, elephant ears, cider shakes,
 Our apple and berry cider's are sold from our fountains.
 We bring our caramel apples and baked pies!
 
-## Apple Festival 🍂
+## Apple Festival &#x1f342;
 
 ![Overflowing apple basket](images/apple-basket.jpg =500x277)
 
@@ -79,7 +79,7 @@ Bring the children -- visit our farm animals.
 Every weekend enjoy our animal train, face painting, games, petting farm, pony rides, and wagon rides to & from our pumpkin patch from 10 am to 4 pm.
 We have our National Award Winning Cider, lots of good things to eat, bbq, apple crisp, caramel apples, apple pie, cold & hot spiced cider, berry cider, cider donuts, apple cake, and our famous Apple Fritters.
 
-## Halloween 🎃
+## Halloween &#x1f383;
 
 On the last weekend of Apple Fest this year, our farm becomes haunted to celebrate this spooky occasion!
 
@@ -89,7 +89,7 @@ On the last weekend of Apple Fest this year, our farm becomes haunted to celebra
 - Store Parking: Always no charge
 - Information: [(360) 491-7328](tel:+1-360-491-7328)
 
-## Drive Through Christmas Lights 🎄
+## Drive Through Christmas Lights &#x1f384;
 
 ![Christmas Lights](images/christmas-lights.jpg =709x249)
 

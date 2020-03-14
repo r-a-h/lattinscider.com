@@ -13,7 +13,7 @@ css: default.css
 9. [Calendar](calendar.html)
 10. [Jobs](jobs.html)
 
-# Lattin's Gardens 🌱
+# Lattin's Gardens &#x1f331;
 
 0. ![Sunflower pulled to face](images/sunflower-in-face.jpg =300x300) \
    Debbie farms with her heart and her plants thrive.
@@ -22,7 +22,7 @@ css: default.css
 
 We started planting seeds in trays on Thursday, March 5th.
 
-## Produce, Fruit, Herbs, and Flowers 💐
+## Produce, Fruit, Herbs, and Flowers &#x1f490;
 
 We are planning the 2020 growing season.
 Please check back again soon.
