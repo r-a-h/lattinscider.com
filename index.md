@@ -32,30 +32,25 @@ css: default.css
 
 ## Announcements
 
-### Lattin's Remains Open-- but what about the Easter Egg Hunt?
+### Lattin's Remains Open
 
-We're open during the [statewide ban on large gatherings](https://medium.com/wagovernor/inslee-announces-statewide-school-closures-expansion-of-limits-on-large-gatherings-63d442111438#0b80).
-However, our April 11th Easter Egg Hunt is a large gathering and will be either cancelled or changed.
-&#x1f615;
+Please continue to shop at our store and spend time outside on the farm.
+But, please, remember to...
+
+- Wash hands often with soap and water
+- Wash hands before and after touching things or animals
+- Avoid touching your eyes, nose, or mouth with unwashed hands
+- Stay 6 feet apart from others
+- Cover your mouth and nose with a tissue or sleeve when coughing or sneezing
+- Stay home if you are sick
+
+Call the store at [(360) 491-7328](tel:+1-360-491-7328) with any and all questions.
 
 ### Plant Starts Available in April
 
 On March 5th, we planted the first seed trays in the Greenhouse behind the Mill.
 These starters will be for our plants *and* yours.
 Please call the farm or visit to see what's available.
-
-### Come in for Apple Fritters & Hot Cider on Thursdays, Fridays, and Saturdays!
-
-Come beat the winter blues with freshly made apple fritters and fresh hot cider.
-They're available Thursday & Friday mornings, and all day Saturday!
-We still make fresh cider every Monday.
-
-### Get Ready for Spring
-
-New babies will arrive!
-Cute and cuddly...
-The first produce arrives, too.
-We're getting ready, too!
 
 ### Firewood Sale!
 
