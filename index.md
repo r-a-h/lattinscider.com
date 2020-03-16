@@ -37,15 +37,12 @@ css: default.css
 We're open during the [statewide ban on large gatherings](https://medium.com/wagovernor/inslee-announces-statewide-school-closures-expansion-of-limits-on-large-gatherings-63d442111438#0b80).
 However, our April 11th Easter Egg Hunt is a large gathering and will be either cancelled or changed.
 &#x1f615;
-What can we do?
-Email us at egghunt@lattinscider.com.
 
 ### Plant Starts Available in April
 
 On March 5th, we planted the first seed trays in the Greenhouse behind the Mill.
 These starters will be for our plants *and* yours.
-Please call the farm or email your interests to <garden@lattinscider.com>,
-or just show up and ask to see what's available.
+Please call the farmo or visit to see what's available.
 
 ### Come in for Apple Fritters & Hot Cider on Thursdays, Fridays, and Saturdays!
 
@@ -94,14 +91,4 @@ We look forward to seeing you soon!
 *Carolyn Lattin* and daughters, *Debbie* & *Sherrie*
 
 ![Cute pig](images/pig-cute.jpg =300x225)
-
-## Website Contact
-
-You can help improve this site.
-&#x1f58a;
-Please email your pictures and stories to <funtimes@lattinscider.com>.
-We want to hear from you!
-Please send any other comments to <comments@lattinscider.com>.
-
-Our business email remains <lattinscider@comcast.net>.
 
