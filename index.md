@@ -42,7 +42,7 @@ However, our April 11th Easter Egg Hunt is a large gathering and will be either 
 
 On March 5th, we planted the first seed trays in the Greenhouse behind the Mill.
 These starters will be for our plants *and* yours.
-Please call the farmo or visit to see what's available.
+Please call the farm or visit to see what's available.
 
 ### Come in for Apple Fritters & Hot Cider on Thursdays, Fridays, and Saturdays!
 
