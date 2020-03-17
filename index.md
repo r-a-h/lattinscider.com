@@ -46,6 +46,10 @@ But, please, remember to...
 
 Call the store at [(360) 491-7328](tel:+1-360-491-7328) with any and all questions.
 
+### Meet Selene and Calypso
+
+![Selene and Calypso](images/goats_20200311.jpg =600x390)
+
 ### Plant Starts Available in April
 
 On March 5th, we planted the first seed trays in the Greenhouse behind the Mill.
