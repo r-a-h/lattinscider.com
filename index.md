@@ -34,11 +34,11 @@ css: default.css
 
 ### Lattin's Remains Open
 
-We will remain open as long as grocery stores remain open.
+We will remain open as long as [grocery stores remain open](https://coronavirus.wa.gov/whats-open-and-closed).
 Please continue to shop at our store and spend time outside on the farm.
-But, please, remember to...
+But, please, remember...
 
-- Use groceries only after leaving the farm
+- No indoor on-site food or beverage consumption is permitted
 - Wash hands often with soap and water
 - Wash hands before and after touching things or animals
 - Avoid touching your eyes, nose, or mouth with unwashed hands
