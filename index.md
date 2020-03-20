@@ -34,9 +34,12 @@ css: default.css
 
 ### Lattin's Remains Open
 
+We will remain open as long as grocery stores remain open.
+
 Please continue to shop at our store and spend time outside on the farm.
 But, please, remember to...
 
+- Eat or drink only after leaving the farm
 - Wash hands often with soap and water
 - Wash hands before and after touching things or animals
 - Avoid touching your eyes, nose, or mouth with unwashed hands
