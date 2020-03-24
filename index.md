@@ -35,7 +35,7 @@ css: default.css
 We will remain open as long as [grocery stores remain open](https://coronavirus.wa.gov/whats-open-and-closed).
 Please continue to shop at our store for essential supplies.
 
-The Governor has issue a *Stay Home -- Stay Healthy* proclimation that expires April 6th at Midnight.
+The Governor issued a *Stay Home -- Stay Healthy* proclimation that expires April 6th at Midnight.
 Call the store at [(360) 491-7328](tel:+1-360-491-7328) with any and all questions.
 
 ## Announcements
