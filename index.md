@@ -30,23 +30,15 @@ css: default.css
 
 2. ![Our store](images/our-store.jpg =250x150)
 
-## Announcements
-
-### Lattin's Remains Open
+## Lattin's Remains Open
 
 We will remain open as long as [grocery stores remain open](https://coronavirus.wa.gov/whats-open-and-closed).
-Please continue to shop at our store and spend time outside on the farm.
-But, please, remember...
+Please continue to shop at our store for essential supplies.
 
-- No indoor on-site food or beverage consumption is permitted
-- Wash hands often with soap and water
-- Wash hands before and after touching things or animals
-- Avoid touching your eyes, nose, or mouth with unwashed hands
-- Stay 6 feet apart from others
-- Cover your mouth and nose with a tissue or sleeve when coughing or sneezing
-- Stay home if you are sick
-
+The Governor has issue a *Stay Home -- Stay Healthy* proclimation that expires April 6th at Midnight.
 Call the store at [(360) 491-7328](tel:+1-360-491-7328) with any and all questions.
+
+## Announcements
 
 ### Meet Selene and Calypso
 
