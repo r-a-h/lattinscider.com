@@ -40,15 +40,19 @@ Call the store at [(360) 491-7328](tel:+1-360-491-7328) with any and all questio
 
 ## Announcements
 
+### Easter Egg Hunt Cancelled
+
+See our [Facebook](https://www.facebook.com/LattinsCider) for more information.
+
 ### Meet Selene and Calypso
 
 ![Selene and Calypso](images/goats_20200311.jpg =600x390)
 
 ### Plant Starts Available in April
 
-On March 5th, we planted the first seed trays in the Greenhouse behind the Mill.
-These starters will be for our plants *and* yours.
 Please call the farm or visit to see what's available.
+
+![A couple plant sprouts in a pot](images/sprouts_20200322.jpg =640x480)
 
 ### Firewood Sale!
 
