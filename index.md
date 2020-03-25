@@ -38,6 +38,12 @@ Call us, [(360) 491-7328](tel:+1-360-491-7328), if you have questions.
 
 ## Announcements
 
+### Chicks!
+
+Our chick house is full of babies!
+They are for sale.
+Call us, [(360) 491-7328](tel:+1-360-491-7328), if you'd like to know more about them.
+
 ### Easter Egg Hunt Cancelled
 
 See our [Facebook](https://www.facebook.com/LattinsCider) for more information.
@@ -46,15 +52,18 @@ See our [Facebook](https://www.facebook.com/LattinsCider) for more information.
 
 ![Selene and Calypso](images/goats_20200311.jpg =600x390)
 
-### Plant Starts Available in April
+They are two very adorable and friendly goats who always want attention.
+Be careful, they stand on the fence and reach their necks out!
 
-Please call the farm or visit to see what's available.
+### Plant Starts Available in April
 
 ![A couple plant sprouts in a pot](images/sprouts_20200322.jpg =640x480)
 
-### Firewood Sale!
+We've been busy planting flowers and vegetables since the beginning of March.
 
-We have about two cords of dry firewood for sale!
+### Firewood for Sale
+
+We have about two cords of dry firewood for sale.
 $350, you haul.
 Please pay cashier first.
 
