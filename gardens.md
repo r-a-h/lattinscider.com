@@ -21,7 +21,11 @@ css: default.css
 
 ## Plant Starts
 
-We started planting seeds in trays on Thursday, March 5th.
+- On the 22nd, we spotted the first sprouts!
+
+![A couple plant sprouts in a pot](images/sprouts_20200322.jpg =640x480)
+
+- We started planting seeds in trays on Thursday, March 5th.
 
 ## Produce, Fruit, Herbs, and Flowers
 
