@@ -26,5 +26,5 @@ We started planting seeds in trays on Thursday, March 5th.
 ## Produce, Fruit, Herbs, and Flowers
 
 We are almost done planning the 2020 growing season.
-#&x1f490;
+&#x1f490;
 
