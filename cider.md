@@ -34,7 +34,7 @@ No additives, preservatives or sweeteners-- Just great apple flavor.
 ## Award Winning Apple Cider
 
 Our cider won several national awards including First Place at the North American Farmers Direct Marketing Association.
-&#xe131;
+&#x1f3c6;
 Here's why it's award winning:
 
 - Pressed only from Washington Grown Apples
