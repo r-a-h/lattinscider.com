@@ -30,23 +30,26 @@ css: default.css
 
 2. ![Our store](images/our-store.jpg =250x150)
 
+3. Questions? Call us at [(360) 491-7328](tel:+1-360-491-7328). \
+   More Information? Visit our [Facebook](https://www.facebook.com/LattinsCider).
+
 ## Lattin's Remains Open
 
 We will remain open as long as [grocery stores remain open](https://coronavirus.wa.gov/whats-open-and-closed).
 Please continue to shop at our store. 
-Call us, [(360) 491-7328](tel:+1-360-491-7328), if you have questions.
+Remember to avoid groups and stay six feet away from others.
+Don't gather in groups for any purpose.
 
 ## Announcements
 
-### Chicks!
+### Chicks for Sale!
 
-Our chick house is full of babies!
-They are for sale.
-Call us, [(360) 491-7328](tel:+1-360-491-7328), if you'd like to know more about them.
+Our chick house is full of Barred Rock, Partridge Rock, and Rhode Island Blue!
+Chicks are all female and lay brown eggs.
 
 ### Easter Egg Hunt Cancelled
 
-See our [Facebook](https://www.facebook.com/LattinsCider) for more information.
+Stay home. Stay healthy.
 
 ### Meet Selene and Calypso
 
