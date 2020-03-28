@@ -17,9 +17,7 @@ css: default.css
 
 0. ![Our wheel house](images/our-wheel-house.jpg =550x367) \
    [9402 Rich Road SE Olympia WA 98501](http://maps.apple.com/?daddr=9402%20Rich%20Road%20SE%20Olympia%20WA%2098501) \
-   3.5 miles south of Olympia Airport on Old Highway 99 to Rich Road \
-   \
-   [(360) 491-7328](tel:+1-360-491-7328) -- lattinscider@comcast.net -- [Facebook](https://www.facebook.com/LattinsCider)
+   3.5 miles south of Olympia Airport on Old Highway 99 to Rich Road
 
 1. **We're Open All Year** \
    Monday to Saturday, 9 am to 5:30 pm
@@ -31,7 +29,8 @@ css: default.css
 2. ![Our store](images/our-store.jpg =250x150)
 
 3. Questions? Call us at [(360) 491-7328](tel:+1-360-491-7328). \
-   More Information? Visit our [Facebook](https://www.facebook.com/LattinsCider).
+   More Information? Visit our [Facebook](https://www.facebook.com/LattinsCider). \
+   Email? lattinscider@comcast.net.
 
 ## Lattin's Remains Open
 
