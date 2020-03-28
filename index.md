@@ -43,8 +43,8 @@ Don't gather in groups for any purpose.
 
 ### Chicks for Sale!
 
-Our chick house is full of Barred Rock, Partridge Rock, and Rhode Island Blue!
-Chicks are all female and lay brown eggs.
+Our chick house is full of Barred Rock, Partridge Rock, and Rhode Island Blue chicks!
+They will all grow into brown-egg laying hens.
 
 ### Easter Egg Hunt Cancelled
 
