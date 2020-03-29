@@ -57,7 +57,7 @@ Stay home. Stay healthy.
 
 ![Selene and Calypso](images/goats_20200311.jpg =600x390)
 
-They are two very adorable and friendly goats who always want attention.
+Selene and Calypso are two very adorable and friendly Nubian goats who always want attention.
 Be careful, they stand on the fence and reach their necks out!
 
 ### Plant Starts Available in April
