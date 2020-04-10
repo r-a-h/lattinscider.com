@@ -44,10 +44,13 @@ Don't gather in groups for any purpose.
 
 ## Announcements
 
-### Chicks for Sale!
+### Chicks, Ducklings, and Keets for Sale!
 
-Our chick house is full of Barred Rock, Partridge Rock, and Rhode Island Blue chicks!
+We sold our last Rhode Island Blue. The remaining chicks are Partidge and Barred Rock.
 They will all grow into brown-egg laying hens.
+
+Runner & Muscovy Ducklings, and Guinea Fowl Keets are for sale in the Animal Building.
+They are growing quickly.
 
 ### Easter Egg Hunt Cancelled
 
