@@ -13,34 +13,32 @@ css: default.css
 9. [Calendar](calendar.html)
 10. [Jobs](jobs.html)
 
-# Lattin's Country Cider Mill & Farm
+# You're Invited to Lattin's Country Cider Mill & Farm
 
 0. ![Our wheel house](images/our-wheel-house.jpg =550x367) \
    [9402 Rich Road SE Olympia WA 98501](http://maps.apple.com/?daddr=9402%20Rich%20Road%20SE%20Olympia%20WA%2098501) \
-   3.5 miles south of Olympia Airport on Old Highway 99 to Rich Road
+   3.5 miles south of Olympia Airport on Old Highway 99 to Rich Road 
 
 ## Hours
 
-0. **We're Open All Year** \
-   Monday to Saturday, 9 am to 5:30 pm
+
+1. **We're Open All Year** \
+   Monday to Saturday, 9 am to 5:30 pm \
+   [Our store remains open!](https://coronavirus.wa.gov/whats-open-and-closed)
 
    **June through December** \
    Monday to Saturday, 9 am to 5:30 pm \
    ...*and* Sundays, 9 am to 4 pm
 
-1. ![Our store](images/our-store.jpg =250x150)
-
-We will remain open as long as [grocery stores remain open](https://coronavirus.wa.gov/whats-open-and-closed).
-Please continue to shop at our store. 
-Remember to avoid groups and stay six feet away from others.
-Don't gather in groups for any purpose.
+2. ![Our store](images/our-store.jpg =250x150)
 
 ## Contact
 
 3. Questions? Call us at [(360) 491-7328](tel:+1-360-491-7328). \
-   Find out more on our [Facebook](https://www.facebook.com/LattinsCider). \
    Email us at [lattinscider@comcast.net](mailto:lattinscider@comcast.net). \
-   Our mailing address is [9402 Rich Road SE Olympia WA 98501](http://maps.apple.com/?daddr=9402%20Rich%20Road%20SE%20Olympia%20WA%2098501).
+   Our mailing address is [9402 Rich Road SE Olympia WA 98501](http://maps.apple.com/?daddr=9402%20Rich%20Road%20SE%20Olympia%20WA%2098501). \
+   \
+   *Find out more on our [Facebook](https://www.facebook.com/LattinsCider).*
 
 ## Announcements
 
