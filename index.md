@@ -52,10 +52,6 @@ They will all grow into brown-egg laying hens.
 Runner & Muscovy Ducklings, and Guinea Fowl Keets are for sale in the Animal Building.
 They are growing quickly.
 
-### Easter Egg Hunt Cancelled
-
-Stay home. Stay healthy.
-
 ### Meet Selene and Calypso
 
 ![Selene and Calypso](images/goats_20200311.jpg =600x390)
@@ -63,7 +59,7 @@ Stay home. Stay healthy.
 Selene and Calypso are two very adorable and friendly Nubian goats who always want attention.
 Be careful, they stand on the fence and reach their necks out!
 
-### Plant Starts Available in April
+### Plant Starts Available
 
 ![A couple plant sprouts in a pot](images/sprouts_20200322.jpg =640x480)
 
