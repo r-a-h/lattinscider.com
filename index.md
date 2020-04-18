@@ -44,10 +44,10 @@ css: default.css
 
 ### Chicks, Ducklings, and Keets for Sale!
 
-We sold our last Rhode Island Blue. The remaining chicks are Partidge and Barred Rock.
-They will all grow into brown-egg laying hens.
+We have Barred Rock chicks for sale. They are great egg layers.
+Our Rhode Island Blue all sold and we'll have Partridge Rock and Silky soon.
 
-Runner & Muscovy Ducklings, and Guinea Fowl Keets are for sale in the Animal Building.
+Muscovy Ducklings and Guinea Fowl Keets are for sale in the Animal Building.
 They are growing quickly.
 
 ### Meet Selene and Calypso
