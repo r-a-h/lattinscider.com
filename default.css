@@ -4,7 +4,7 @@
 body {
 	margin: 40px auto;
 	max-width: 83%;
-	line-height: 1.6;
+	line-height: 1.65em;
 	font-size: 20px;
 	color: #222;
 	background-color: rgba(255, 255, 255, 0.85);
@@ -12,6 +12,7 @@ body {
 	box-shadow: 0 0 0 1rem #944;
 	border: 0.5rem solid #c11;
 	border-radius: 12px;
+	font-family: 'minion-pro', 'Minion Pro', 'Palatino', 'Palatino Linotype', Georgia, serif;
 }
 h1,h2,h3 {
 	line-height: 1.2;
