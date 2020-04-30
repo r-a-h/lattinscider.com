@@ -1,4 +1,4 @@
-all: bakery.html calendar.html cider.html events.html farm.html gardens.html index.html jobs.html parties.html store.html tours.html
+all: bakery.html calendar.html csa.html cider.html events.html farm.html gardens.html index.html jobs.html parties.html store.html tours.html
 
 bakery.html: bakery.md
 	lowdown -s "bakery.md" > "bakery.html"
@@ -8,6 +8,9 @@ calendar.html: calendar.md
 
 cider.html: cider.md
 	lowdown -s "cider.md" > "cider.html"
+
+csa.html: csa.md
+	lowdown -s "csa.md" > "csa.html"
 
 events.html: events.md
 	lowdown -s "events.md" > "events.html"
